@@ -9,7 +9,7 @@ def shipping_manifest
                    "porcelain vases" => 2,
                    "oil paintings" => 3 }
 
-  # We have 5 whale bone corsets, 2 porcelain vases and 3 oil paintings
+  
 
 
 end
